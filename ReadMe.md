@@ -1,0 +1,1 @@
+ถ้า npm install package ไม่ได้ ให้ npm init
