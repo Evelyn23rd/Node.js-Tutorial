@@ -4,7 +4,7 @@
   "description": "ถ้า npm install package ไม่ได้ ให้ npm init",
   "main": "demo_fileserver.js",
   "dependencies": {
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "upper-case": "^2.0.1"
   },
   "devDependencies": {},
